@@ -6,7 +6,7 @@ class Auto:
         self.marca = marca
         self.motor = motor
         self.registro = registro
-        self.cantidadCreados = cantidadCreados
+        self.cantidadCreados = 0
 
     def cantidadAsientos(asientos):
         return asientos.len()
